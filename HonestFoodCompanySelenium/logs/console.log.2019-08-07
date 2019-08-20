@@ -1,0 +1,21 @@
+2019-08-07 23:20:02 INFO  PropertiesCache:22 - java.io.BufferedInputStream@2f7c7260
+2019-08-07 23:20:02 INFO  PropertiesCache:23 - Read all the configurations from  file
+2019-08-07 23:20:02 INFO  ExtentManager:92 - Directory already exists: D:\Software\Training\selenium\HonestFoodCompanySelenium\TestReport
+2019-08-07 23:20:02 INFO  ExtentManager:73 - ExtentReport Path for WINDOWS: D:\Software\Training\selenium\HonestFoodCompanySelenium\TestReport
+
+2019-08-07 23:20:02 INFO  TestBase:54 - :::::::::::::::::::: Launching webdriver ::::::::::::::::::::
+2019-08-07 23:20:02 INFO  TestBase:70 -  =================================================== 
+2019-08-07 23:20:02 INFO  TestBase:71 - Url is :: https://clubkitchen.at
+2019-08-07 23:20:02 INFO  TestBase:72 -  =================================================== 
+2019-08-07 23:20:08 INFO  TestListener:33 - Test Suite started!
+2019-08-07 23:20:09 INFO  TestBase:115 - Testcase name is :::::: mamacitaAddtoCart
+2019-08-07 23:20:09 INFO  TestBase:116 - mamacitaAddtoCart Started ::::
+2019-08-07 23:20:09 INFO  TestListener:77 - mamacitaAddtoCart started!
+2019-08-07 23:20:10 INFO  TestBase:103 - Element is displayed Agree cookies button
+2019-08-07 23:20:43 INFO  TestListener:89 - Test casemamacitaAddtoCart passed!
+2019-08-07 23:20:43 INFO  TestBase:124 - Testcase execution completed :::::: mamacitaAddtoCart
+2019-08-07 23:20:43 INFO  TestBase:107 - Tests Ended from class :::::MamacitaCartTest
+2019-08-07 23:20:43 INFO  TestListener:60 - Congrats, All test cases are passed
+2019-08-07 23:20:43 INFO  TestListener:62 - Test Suite is ending!
+2019-08-07 23:20:44 INFO  TestBase:131 - Logger Info:: Inside suiteEndReached Method
+2019-08-07 23:20:44 INFO  TestBase:132 - Suite ended
